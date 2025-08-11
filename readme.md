@@ -17,10 +17,7 @@ A simple Android app built with **Kotlin** and **Jetpack Compose**.
 3. Add your saving goal and track progress.
 
 ## ⚠ Note
-This app is for **demonstration purposes only** — the login screen is not connected to a real backend.
-
-## 📸 Screenshots
-*(Add screenshots here for a better visual preview)*
+This app is for **demonstration purposes only** — the login screen is not connected to a real backend
 
 ---
 
